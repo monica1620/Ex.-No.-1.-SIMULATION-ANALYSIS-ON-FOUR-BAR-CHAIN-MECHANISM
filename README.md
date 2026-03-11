@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 11-03-2026
 
 ## AIM:
 
@@ -53,6 +53,10 @@
 
 
 ## Output:
+<img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/b009e0c7-5ada-4b92-a4c7-e198686429a2" />
+
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/522abb65-f5e0-4bae-8521-bfc5a13316f9" />
+
 
 
 ### Name: MONICA R
